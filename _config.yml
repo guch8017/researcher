@@ -1,8 +1,8 @@
-author: Ke Lin
-title: Ke Lin
-url: "https://leonardodalinky.github.io"
+author: Chao Gu
+title: Chao Gu
+url: "https://guch8017.github.io"
 baseurl: "/researcher"
-description: "About Ke Lin"
+description: "About Chao Gu"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -10,8 +10,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/leonardodalinky"
-footer_text: "Page designed by Ankit Sultana and modified by K. Lin"
+footer_url: "https://github.com/guch8017"
+footer_text: "Page designed by Ankit Sultana and modified by C. Gu and K. Lin"
 
 sass:
   sass_dir: _sass
