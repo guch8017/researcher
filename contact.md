@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Contact K. Lin
+title: Contact C. Gu
 is_contact: true
 ---
 
-* Email: [leonard.keilin@gmail.com](mailto:leonard.keilin@gmail.com)
+* Email: [guch8017@gmail.com](mailto:guch8017@gmail.com)
+* Email: [guch8017@mail.ustc.edu.cn](mailto:guch8017@mail.ustc.edu.cn)
 
-* Phone: [+86-137 117 15601](tel:+86-137 117 15601)
+* Phone: [+86-132 650 84705](tel:+86-132 650 84705)
 
 ---
 
@@ -20,7 +21,7 @@ is_contact: true
 
 --- -->
 
-## Social
+<!-- ## Social
 
 1. [Google+](https://scholar.google.com/citations?user=FPaobEgAAAAJ)
-2. [LinkedIn](https://linkedin.com/in/ke-lin-7890112b5/)
+2. [LinkedIn](https://linkedin.com/in/ke-lin-7890112b5/) -->
